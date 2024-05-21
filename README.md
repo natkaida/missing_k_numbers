@@ -1,5 +1,5 @@
 # missing_k_numbers
-Finding missing k numbers in a data stream using symm functions
+Find the missing k numbers in data stream or array using symm functions
 
 This is the Holy Grail solution for the famous [Easy interview question got harder: given numbers 1..100, find the missing number(s) given exactly k are missing](https://stackoverflow.com/questions/3492302/easy-interview-question-got-harder-given-numbers-1-100-find-the-missing-numbe) challenge.
 
